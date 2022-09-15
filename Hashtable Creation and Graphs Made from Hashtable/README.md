@@ -1,1 +1,1 @@
-Creation of a hash table and an creation of a graph aswell.
+Creation of a hash table and using it to check for different things within graphs such as isomorphism.
