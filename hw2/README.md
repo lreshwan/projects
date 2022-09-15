@@ -1,1 +1,0 @@
-A web parser that parses through "webpages" (txt files) and displays them, then allows for searching within the webpage in order to discover different terms the user searches for.
