@@ -1,0 +1,1 @@
+Creates a 2D array of messages with different labels, similar to an email inbox with different folders. Allows for insertion and removal of messages from either specifically the folder or from the entire email list (specific folders aswell as the all folder).
